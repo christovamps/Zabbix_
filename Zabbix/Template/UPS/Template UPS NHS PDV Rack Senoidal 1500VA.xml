@@ -11,9 +11,7 @@
         <template>
             <template>Template UPS NHS PDV Rack Senoidal 1500VA</template>
             <name>Template UPS NHS PDV Rack Senoidal 1500VA</name>
-            <description>NHS PDV RACK SNMP&#13;
-&#13;
-Made by Tom Adolfs</description>
+            <description>NHS PDV RACK SNMP</description>
             <groups>
                 <group>
                     <name>UPS</name>
